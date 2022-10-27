@@ -105,6 +105,7 @@
 - 2022년도 소프트웨어융합대학 학술동아리 씨애랑 동계 워크샵 참가
 - 데이터기반 사이버보안 연구실(Data-driven Cybersecurity Research Lab) 학부연구생(2022.03.30.~)
 - 2022-1학기 SW교과목 멘토링
+- 2022년도 정보과학대학 소프트웨어학부 학술동아리 씨애랑 하계 워크샵 참가
 - 2022-2학기 SW교과목 멘토링
 - 2022년도 2학기 한림대학교 상생러닝디딤돌 프로그램 멘토
 
@@ -117,9 +118,12 @@
 - [메타버스 환경에서 금융서비스 보안 위협 연구](https://github.com/ssyyjj1012/STUDY_Metaverse-Security)
 - [데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강](https://github.com/ssyyjj1012/PAPER_Generative-Adversarial-Networks-Based-Data-Augmentation-to-Address-Medical-Data-Imbalances-)
 
+
+
 ## 현재 진행 중인 연구
 - LSTM을 이용한 IVN 데이터 기반 침입탐지 연구
 - 학술동아리 씨애랑 소프트웨어전시회 준비
+
 
 
 
