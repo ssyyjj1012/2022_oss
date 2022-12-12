@@ -7,20 +7,6 @@
 * 전공 : 콘텐츠IT
 * 복수전공 : 빅데이터
 * 관심분야 : Vehicle Security , Data-Driven Security , Network Security
-
-
-## 소속 동아리 
-|동아리명|동아리 구분|
-|---|---|
-|<span style="color:red">씨애랑</span>|학술|
-|<span style="color:red">HSV</span>|봉사|
-|<span style="color:red">BLESS</span>|축구 (매니저)|
-|<span style="color:red">DASH</span>|농구 (매니저)|
-|<span style="color:red">소융-데융</span>|빅데이터·AI| 
-|<span style="color:red">MAKERSPACE</span>|강원 FABLAB|
-|<span style="color:red">HSC</span>|학술(보안)|
-|<span style="color:red">ELEVEN</span>|축구(매니저)|
-|<span style="color:red">한림불회</span>|종교|
  
 ## 학력
 |기간|학교명|학위|
@@ -30,11 +16,20 @@
 
 ## 경력
 - 제1대 한림대학교 콘텐츠IT학과 학생회 'HASHTAG' 홍보부장
+- 소프트웨어융합대학 학술동아리 '씨애랑' 28기
+- 소프트웨어융합대학 봉사동아리 'HSV' 부원
+- 소프트웨어융합대학 축구동아리 'BLESS' 매니저
+- 소프트웨어융합대학 농구동아리 'DASH' 매니저
 - 제2대 한림대학교 소프트웨어융합대학 학생회 'STEP' 사무부원
 - 2020년도 소프트웨어융합대학 농구동아리 'DASH' 매니저장
 - 제3대 한림대학교 소프트웨어융합대학 학생회 'WUSM' 홍보국장
+- 한림대학교 빅데이터·AI 동아리 '소융-데융' 부원
+- 한림대학교 강원 FABLAB 'MAKERSPACE' 부원
 - 2022년도 한림대학교 소프트웨어융합대학 선거본부위원장
+- 소프트웨어융합대학 학술(보안)동아리 'HSC' 부원
 - 제4대 한림대학교 소프트웨어융합대학 학생회 'A:BLE' 사무국장
+- 소프트웨어학부 축구동아리 'ELEVEN' 매니저
+- 한림대학교 중앙동아리 '한림불회' 부원
 - 강원 디지털 서포터즈 (2020. 10. 01 ~ 2021. 01. 31) [ 디지털뉴딜추진사무국 ]
 - 강원 디지털 서포터즈 (2021. 05. ~ 2021. 12. 31) [ (주)에스엘아이'평생교육원 ]
 - 2022년도 한림대학교 축제 대동제 '**그,_림**' 축제준비위원회 홍보팀
