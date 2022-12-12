@@ -18,7 +18,7 @@
 |<span style="color:red">DASH</span>|농구 (매니저)|
 |<span style="color:red">소융-데융</span>|빅데이터·AI| 
 |<span style="color:red">MAKERSPACE</span>|강원 FABLAB|
-|<span style="color:red">보안동아리</span>|학술|
+|<span style="color:red">HSC</span>|학술(보안)|
 |<span style="color:red">ELEVEN</span>|축구(매니저)|
 |<span style="color:red">한림불회</span>|종교|
  
