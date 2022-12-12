@@ -111,6 +111,11 @@
 - 2022년도 정보과학대학 소프트웨어학부 학술동아리 씨애랑 하계 워크샵 참가
 - 2022-2학기 SW교과목 멘토링
 - 2022년도 2학기 한림대학교 상생러닝디딤돌 프로그램 멘토
+- [2022 한림대학교 SW WEEK 오픈소스 웹 개발 해커톤 - 대상](https://github.com/ssyyjj1012/bomnaesijang)
+- [2022 소프트웨어학부 학술동아리 씨애랑 주최 소프트웨어전시회 참가](https://github.com/ssyyjj1012/WEB_SA_HAE)
+- [2022 한림모여코딩](https://github.com/ssyyjj1012/HMC)
+- [오픈소스SW개발도구활용 기말 프로젝트](https://github.com/skdms8827/we_with)
+
 
 ## 교외 활동사항
 - 강원 디지털 서포터즈 (2020. 10. 01 ~ 2021. 01. 31)  [ 디지털뉴딜추진사무국 ] 
@@ -120,7 +125,7 @@
 ## 논문
 - [메타버스 환경에서 금융서비스 보안 위협 연구](https://github.com/ssyyjj1012/STUDY_Metaverse-Security)
 - [데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강](https://github.com/ssyyjj1012/PAPER_Generative-Adversarial-Networks-Based-Data-Augmentation-to-Address-Medical-Data-Imbalances-)
-
+- [CAN 프레임 간격 기반 침입 탐지 방법론](https://github.com/ssyyjj1012/CAN-Frame-Interval-Based-Intrusion-Detection-Methods-for-In-Vehicle-Network)
 
 
 ## 현재 진행 중인 연구
