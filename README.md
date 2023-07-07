@@ -123,10 +123,10 @@
 
 
 ## 논문
-- [메타버스 환경에서 금융서비스 보안 위협 연구](https://github.com/ssyyjj1012/STUDY_Metaverse-Security)
-- [데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강](https://github.com/ssyyjj1012/PAPER_Generative-Adversarial-Networks-Based-Data-Augmentation-to-Address-Medical-Data-Imbalances-)
-- [CAN 프레임 간격 기반 침입 탐지 방법론](https://github.com/ssyyjj1012/CAN-Frame-Interval-Based-Intrusion-Detection-Methods-for-In-Vehicle-Network)
-- [IoT 장비에 대한 Delay Attack 동향 분석](https://github.com/ssyyjj1012/portfolio/blob/main/A%20Survey%20of%20Delay%20Attack%20on%20IoT%20Equipment.pdf)
+- [[2022 한국융합보안학회 하계학술대회]메타버스 환경에서 금융서비스 보안 위협 연구(장려상)](https://github.com/ssyyjj1012/STUDY_Metaverse-Security)
+- [[2022 한국정보처리학회 추계학술대회]데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강(우수논문상)](https://github.com/ssyyjj1012/PAPER_Generative-Adversarial-Networks-Based-Data-Augmentation-to-Address-Medical-Data-Imbalances-)
+- [[2022 한국정보보호학회 동계학술대회]CAN 프레임 간격 기반 침입 탐지 방법론(우수논문상)](https://github.com/ssyyjj1012/CAN-Frame-Interval-Based-Intrusion-Detection-Methods-for-In-Vehicle-Network)
+- [[2023 한국정보보호학회 하계학술대회] IoT 장비에 대한 Delay Attack 동향 분석(우수논문상)](https://github.com/ssyyjj1012/portfolio/blob/main/A%20Survey%20of%20Delay%20Attack%20on%20IoT%20Equipment.pdf)
 
 ## 현재 진행 중인 연구
 - Bluetooth통신을 이용한 스마트도어락 Relay Attack
