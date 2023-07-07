@@ -128,10 +128,15 @@
 - [[2022 한국정보보호학회 동계학술대회] CAN Frame Interval-Based Intrusion Detection Methods for In-Vehicle Network(우수논문상)](https://github.com/ssyyjj1012/CAN-Frame-Interval-Based-Intrusion-Detection-Methods-for-In-Vehicle-Network)
 - [[2023 한국정보보호학회 하계학술대회] A Survey of Delay Attack on IoT Equipment(우수논문상)](https://github.com/ssyyjj1012/portfolio/blob/main/A%20Survey%20of%20Delay%20Attack%20on%20IoT%20Equipment.pdf)
 
+## 특허
+- 작성중 ..
+
+  
 ## 현재 진행 중인 연구
 - Bluetooth통신을 이용한 스마트도어락 Relay Attack
 - UI Detection 및 Text Recognition AI Model 
 - 차량 보안 법규
+- Unencrypted Protocol fuzzing
 
 
 ## 학생회
