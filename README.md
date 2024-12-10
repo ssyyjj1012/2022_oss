@@ -5,14 +5,14 @@
 
 * 소속 : 숭실대학교 대학원
 * 전공 : 소프트웨어학과
-* 관심분야 : Vehicle Security , Data-Driven Security , Network Security
+* 관심분야 : Vehicle Security , IoT Security , Network Security
  
 ## 학력
 |기간|학교명|학위|
 |---|---|---|
 |<span style="color:red">16.03 ~ 18.12</span>|홍천여자고등학교|</span>졸업
-|<span style="color:red">19.02 ~23.02|한림대학교 콘텐츠IT(전공), 빅데이터(복수전공)|</span>졸업
-|<span style="color:red">23.03 ~|숭실대학교 대학원 소프트웨어학과|</span>재학
+|<span style="color:red">19.02 ~ 23.02|한림대학교 콘텐츠IT(전공), 빅데이터(복수전공)|</span>졸업
+|<span style="color:red">23.03 ~ 25.02|숭실대학교 대학원 소프트웨어학과|</span>졸업예정
 ## 경력
 - 제1대 한림대학교 콘텐츠IT학과 학생회 'HASHTAG' 홍보부장
 - 소프트웨어융합대학 학술동아리 '씨애랑' 28기
@@ -35,11 +35,14 @@
   
 ## Tech
 - Java
+- Java Script
 - C
 - Python
 - Unity
 - Jupyter Notebook
 - Android Studio
+- Ubuntu
+- Linux
 
 
 ## 자격증
@@ -127,80 +130,107 @@
 - [[2022 한국정보처리학회 추계학술대회] Generative Adversarial Networks Based Data Augmentation to Address Medical Data Imbalances(우수논문상)](https://github.com/ssyyjj1012/PAPER_Generative-Adversarial-Networks-Based-Data-Augmentation-to-Address-Medical-Data-Imbalances-)
 - [[2022 한국정보보호학회 동계학술대회] CAN Frame Interval-Based Intrusion Detection Methods for In-Vehicle Network(우수논문상)](https://github.com/ssyyjj1012/CAN-Frame-Interval-Based-Intrusion-Detection-Methods-for-In-Vehicle-Network)
 - [[2023 한국정보보호학회 하계학술대회] A Survey of Delay Attack on IoT Equipment(우수논문상)](https://github.com/ssyyjj1012/portfolio/blob/main/A%20Survey%20of%20Delay%20Attack%20on%20IoT%20Equipment.pdf)
+- [[2023 Mobisec] Blackbox fuzzing approach in Obfuscated Apps for IoT Device](https://github.com/ssyyjj1012/portfolio/blob/main/MobiSec23_paper_71.pdf)
+
 
 ## 특허
-- 작성중 ..
+- [국내특허출원] IoT 기기의 취약점 탐지를 위한 퍼징 시스템, 퍼징 방법 및 이를 수행하는 기록 매체 2023.10
+- [국내특허출원] IoT 패킷 자동생성장치, IoT 패킷 자동생성방법 및 이를 수행하는 기록매체 2023.10
 
   
 ## 현재 진행 중인 연구
 - Bluetooth통신을 이용한 스마트도어락 Relay Attack
 - UI Detection 및 Text Recognition AI Model 
 - 차량 보안 법규
-- Unencrypted Protocol fuzzing
+- IoT Device Fuzzing
 
 
 ## 학생회
-### 제1대 콘텐츠IT 과학생회 'HASHTAG' 홍보부장
-- 로고 디자인 
-- 홍보 게시물 제작 및 SNS 관리
-- 신입생 MT 기획 및 
-- 간식사업 진행
-- 게릴라이벤트 진행
-- 개강총회 진행
-- 종강총회 진행
-- 코딩 콘테스트 기획 및 진행
+<details>
+<summary>제1대 콘텐츠IT 과학생회 'HASHTAG' 홍보부장</summary>
+<ul>
+<li>로고 디자인</li>
+<li>홍보 게시물 제작 및 SNS 관리</li>
+<li>신입생 MT 기획</li>
+<li>간식사업 진행</li>
+<li>게릴라이벤트 진행</li>
+<li>개강총회 진행</li>
+<li>종강총회 진행</li>
+<li>코딩 콘테스트 기획 및 진행</li>
+</ul>
+</details>
 
-### 제2대 소프트웨어융합대학 학생회 'STEP' 사무부장
-- 선거 운동
-- 회의록 작성
-- 신입생 MT준비 및 홍보영상제작
-- 학생회 사업 준비
-- 간식사업 진행
-- 신발세탁 진행
-- 게릴라이벤트 진행
-- 온라인 소융인의 날 진행
+<details>
+<summary>제2대 소프트웨어융합대학 학생회 'STEP' 사무부장</summary>
+<ul>
+<li>선거 운동</li>
+<li>회의록 작성</li>
+<li>신입생 MT 준비 및 홍보영상 제작</li>
+<li>학생회 사업 준비</li>
+<li>간식사업 진행</li>
+<li>신발세탁 진행</li>
+<li>게릴라이벤트 진행</li>
+<li>온라인 소융인의 날 진행</li>
+</ul>
+</details>
 
-### 제3대 소프트웨어융합대학 학생회 'WUSM' 홍보국장
-- 선거 운동
-- 홍보 게시물 제작 및 SNS 관리
-- 공지 확인 및 홍보
-- 사업 소개 및 홍보영상 제작
-- 학사일정 제작
-- 2021 동아리WEEK 기획 및 진행
-- 2021 연탄 봉사활동 기획
-- 간식사업 진행
-- 게릴라이벤트 진행
-- 상상민속촌 행사 MC
-- 환경미화원 간담회 기획 및 진행
-- 신발세탁 사업 진행
-- 소융인의 날 기획
+<details>
+<summary>제3대 소프트웨어융합대학 학생회 'WUSM' 홍보국장</summary>
+<ul>
+<li>선거 운동</li>
+<li>홍보 게시물 제작 및 SNS 관리</li>
+<li>공지 확인 및 홍보</li>
+<li>사업 소개 및 홍보영상 제작</li>
+<li>학사일정 제작</li>
+<li>2021 동아리WEEK 기획 및 진행</li>
+<li>2021 연탄 봉사활동 기획</li>
+<li>간식사업 진행</li>
+<li>게릴라이벤트 진행</li>
+<li>상상민속촌 행사 MC</li>
+<li>환경미화원 간담회 기획 및 진행</li>
+<li>신발세탁 사업 진행</li>
+<li>소융인의 날 기획</li>
+</ul>
+</details>
 
-### 제1대 정보과학대학 학생회 'A:BLE' 사무국장
-- 선거본부위원장
-- 학생회 로고 제작
-- 회의록 및 명단 정리 
-- 2022 한림대학교 정보과학대학 간식사업 진행
-- 2022 한림대학교 정보과학대학 게릴라이벤트 진행
-- 2022 한림대학교 정보과학대학 e-sport 진행
-- 2022 한림대학교 정보과학대학x사회과학대학x자연과학대학 개강사업 '어, 흥이 나는 개강이오!' 기획
-- 2022 한림대학교 WATER FESTIVAL 'War Of Water' 기획 및 진행
-- 2022 한림대학교 정보과학대학 체육대회 기획 및 진행
-- 2022 한림대학교 정보과학대학 학술제 '서공제' 기획 및 진행 
-- 2022 한림대학교 정보과학대학 천문대 행사 '소원' 기획 및 진행
+<details>
+<summary>제1대 정보과학대학 학생회 'A:BLE' 사무국장</summary>
+<ul>
+<li>선거본부위원장</li>
+<li>학생회 로고 제작</li>
+<li>회의록 및 명단 정리</li>
+<li>2022 한림대학교 정보과학대학 간식사업 진행</li>
+<li>2022 한림대학교 정보과학대학 게릴라이벤트 진행</li>
+<li>2022 한림대학교 정보과학대학 e-sport 진행</li>
+<li>2022 한림대학교 정보과학대학x사회과학대학x자연과학대학 개강사업 '어, 흥이 나는 개강이오!' 기획</li>
+<li>2022 한림대학교 WATER FESTIVAL 'War Of Water' 기획 및 진행</li>
+<li>2022 한림대학교 정보과학대학 체육대회 기획 및 진행</li>
+<li>2022 한림대학교 정보과학대학 학술제 '서공제' 기획 및 진행</li>
+<li>2022 한림대학교 정보과학대학 천문대 행사 '소원' 기획 및 진행</li>
+</ul>
+</details>
 
-### 2022 한림대학교 대동제 '그,_림' 축제준비위원회 홍보팀
-- 단체티 시안 제작 및 발주
-- 게시물 제작
-- X배너 및 현수막 디자인 
-- 포스터 시안
-- 마스코트 시안
-- 홍보영상 스토리보드 작성
-- 홍보영상 촬영
-- 홍보영상 나레이션
-- STAFF, PRESS 명찰 제작
-- SNS 필터 제작
-- 라인업
-- 포토부스 운영
-- 밤부스 서포트
+<details>
+<summary>2022 한림대학교 대동제 '그,_림' 축제준비위원회 홍보팀</summary>
+<ul>
+<li>단체티 시안 제작 및 발주</li>
+<li>게시물 제작</li>
+<li>X배너 및 현수막 디자인</li>
+<li>포스터 시안</li>
+<li>마스코트 시안</li>
+<li>홍보영상 스토리보드 작성</li>
+<li>홍보영상 촬영</li>
+<li>홍보영상 나레이션</li>
+<li>STAFF, PRESS 명찰 제작</li>
+<li>SNS 필터 제작</li>
+<li>라인업</li>
+<li>포토부스 운영</li>
+<li>밤부스 서포트</li>
+</ul>
+</details>
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyyjj1012&show_icons=true&theme=buefy)
